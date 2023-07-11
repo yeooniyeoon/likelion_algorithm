@@ -63,7 +63,7 @@ public class Programmers43163 {
     public static void main(String[] args) {
         System.out.println(
                 new Programmers43163().solution("hit","cog", new String[] {
-                        "hot", "dot", "dog", "lot", "log", 'cog'
+//                        "hot", "dot", "dog", "lot", "log", 'cog'
                 })
         );
         System.out.println();
